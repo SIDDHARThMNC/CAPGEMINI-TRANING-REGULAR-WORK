@@ -1,0 +1,8 @@
+Order_ID,Cuisine_Type,Cuisine_Type_Chinese,Cuisine_Type_Indian,Cuisine_Type_Italian,Cuisine_Type_Mexican
+O001,Italian,0.0,0.0,1.0,0.0
+O002,Chinese,1.0,0.0,0.0,0.0
+O003,Indian,0.0,1.0,0.0,0.0
+O004,Mexican,0.0,0.0,0.0,1.0
+O005,Italian,0.0,0.0,1.0,0.0
+O006,Chinese,1.0,0.0,0.0,0.0
+O007,Indian,0.0,1.0,0.0,0.0

@@ -1,0 +1,5 @@
+Metric,Value
+Mean R² (CV),0.7017732819547702
+Std R² (CV),0.10135407470253203
+Mean MSE (CV),85.33804823128983
+Classification Accuracy,0.915

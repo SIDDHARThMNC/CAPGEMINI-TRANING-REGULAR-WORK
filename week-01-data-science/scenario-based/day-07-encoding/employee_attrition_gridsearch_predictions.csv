@@ -1,0 +1,6 @@
+Employee,Age,Experience,Department,Education,Prediction,Attrition_Risk,Risk_Level
+Employee 1,28,2,Sales,Bachelor,Leaves,52.984425123611125,MEDIUM
+Employee 2,45,18,IT,Master,Stays,20.35126125141637,LOW
+Employee 3,32,8,HR,PhD,Stays,35.16554714704358,LOW
+Employee 4,50,25,IT,Master,Stays,17.25289064212592,LOW
+Employee 5,26,1,Sales,Bachelor,Leaves,54.589705378677365,MEDIUM

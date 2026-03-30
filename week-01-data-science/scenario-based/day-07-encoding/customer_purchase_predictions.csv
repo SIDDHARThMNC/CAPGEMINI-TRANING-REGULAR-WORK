@@ -1,0 +1,5 @@
+Customer,Age,Income,Gender,City,Prediction,Purchase_Probability
+Customer 1,25,30000,Female,Mumbai,Not Purchased,45.6949858560102
+Customer 2,45,80000,Male,Bangalore,Purchased,56.74788996907758
+Customer 3,35,55000,Female,Delhi,Purchased,51.113622334248085
+Customer 4,50,95000,Male,Chennai,Purchased,58.966984482763216

@@ -1,0 +1,5 @@
+Student,Age,Study_Hours,Gender,School,Prediction,Confidence
+Student 1,19,3,Female,Government,Fail,62.86758150580607
+Student 2,20,6,Male,Private,Pass,92.98419282792167
+Student 3,18,1,Female,Government,Fail,86.29804010677975
+Student 4,21,5,Male,Private,Pass,89.15554582299139

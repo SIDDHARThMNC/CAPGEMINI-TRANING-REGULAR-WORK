@@ -1,0 +1,6 @@
+Aspect,Classification,Regression
+Output Type,Discrete categories/labels,Continuous numerical values
+Prediction,Predicts class membership,Predicts quantity/amount
+Examples,"Spam detection, Image recognition, Disease diagnosis","Price prediction, Temperature forecasting, Sales prediction"
+Algorithms,"Logistic Regression, Decision Trees, SVM, Random Forest, Neural Networks","Linear Regression, Polynomial Regression, Ridge, Lasso, Neural Networks"
+Evaluation Metrics,"Accuracy, Precision, Recall, F1-Score, Confusion Matrix","MSE, RMSE, MAE, R-squared, Adjusted R-squared"

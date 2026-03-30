@@ -1,0 +1,16 @@
+Question,Answer,Explanation
+"Predicting house prices based on size, location, and number of rooms",Regression,House price is a continuous numerical value
+Identifying whether an email is spam or not spam,Classification,Binary classification with two categories: spam/not spam
+Estimating a student's exam score based on study hours,Regression,Exam score is a continuous numerical value
+"Categorizing customer reviews as positive, neutral, or negative",Classification,Multi-class classification with three categories
+Forecasting tomorrow's temperature in degrees Celsius,Regression,Temperature is a continuous numerical value
+Detecting whether a tumor is benign or malignant,Classification,Binary classification with two categories
+Predicting stock prices for the next day,Regression,Stock price is a continuous numerical value
+Recognizing handwritten digits (0-9),Classification,Multi-class classification with 10 categories
+Estimating the age of a person from their photo,Regression,Age is a continuous numerical value
+Identifying the breed of a dog from an image,Classification,Multi-class classification with multiple breed categories
+Predicting the number of units sold next month,Regression,Sales quantity is a continuous numerical value
+Determining if a credit card transaction is fraudulent,Classification,Binary classification: fraudulent/legitimate
+Estimating the salary of an employee based on experience,Regression,Salary is a continuous numerical value
+"Classifying music into genres (Rock, Pop, Jazz, etc.)",Classification,Multi-class classification with genre categories
+Predicting the distance a car can travel on remaining fuel,Regression,Distance is a continuous numerical value

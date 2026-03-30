@@ -1,0 +1,5 @@
+Employee,Age,Experience,Department,Education,Prediction,Attrition_Risk
+Employee 1,28,2,Sales,Graduate,Leaves,61.88347577557597
+Employee 2,45,15,IT,Postgraduate,Stays,6.224412794130025
+Employee 3,32,5,HR,Graduate,Stays,40.580662021256785
+Employee 4,50,20,IT,Postgraduate,Stays,4.478015975378973

@@ -1,0 +1,4 @@
+Model,Accuracy,Predictions_Died,Predictions_Survived
+Logistic Regression,0.7972027972027972,84,59
+KNN (k=5),0.7622377622377622,87,56
+Decision Tree (depth=4),0.8041958041958042,87,56

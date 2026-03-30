@@ -1,0 +1,7 @@
+Patient_ID,Disease_Severity,Recovery_Satisfaction,Severity_Encoded,Satisfaction_Encoded,Severity_Manual,Satisfaction_Manual
+P001,Moderate,Good,1.0,2.0,1,2
+P002,Severe,Average,2.0,1.0,2,1
+P003,Mild,Excellent,0.0,3.0,0,3
+P004,Critical,Poor,3.0,0.0,3,0
+P005,Moderate,Good,1.0,2.0,1,2
+P006,Severe,Average,2.0,1.0,2,1

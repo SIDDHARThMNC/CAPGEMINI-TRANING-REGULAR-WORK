@@ -1,0 +1,9 @@
+Employee_ID,Age,Annual_Salary,Cluster,Segment
+EMP001,25,15000,2,Entry-Level Employees
+EMP002,28,16000,2,Entry-Level Employees
+EMP003,30,18000,2,Entry-Level Employees
+EMP004,35,22000,2,Entry-Level Employees
+EMP005,40,25000,2,Entry-Level Employees
+EMP006,45,60000,1,Senior High-Earners
+EMP007,50,65000,1,Senior High-Earners
+EMP008,55,70000,1,Senior High-Earners

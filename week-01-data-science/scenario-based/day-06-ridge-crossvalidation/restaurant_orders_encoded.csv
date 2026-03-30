@@ -1,0 +1,8 @@
+Meal_Type,Spice_Level,Meal_Type_Encoded,Spice_Level_Encoded
+Breakfast,Mild,0,2
+Lunch,Hot,2,0
+Dinner,Medium,1,1
+Breakfast,Medium,0,1
+Lunch,Mild,2,2
+Dinner,Hot,1,0
+Breakfast,Hot,0,0

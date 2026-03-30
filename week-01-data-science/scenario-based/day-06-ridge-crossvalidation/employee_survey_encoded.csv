@@ -1,0 +1,7 @@
+Education,Satisfaction,Education_Encoded,Satisfaction_Encoded,Education_Manual,Satisfaction_Manual
+Bachelor,Good,1.0,2.0,1,2
+Master,Excellent,2.0,3.0,2,3
+High School,Poor,0.0,0.0,0,0
+PhD,Good,3.0,2.0,3,2
+Bachelor,Average,1.0,1.0,1,1
+Master,Excellent,2.0,3.0,2,3

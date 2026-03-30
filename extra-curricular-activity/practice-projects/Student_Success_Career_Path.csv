@@ -1,0 +1,21 @@
+Student_ID,Hours_Studied,Attendance (%),Assignments_Submitted,Previous_Sem_GPA,Participation_Score,Final_Exam_Score,Pass_Fail,Career_Readiness_Score,Age,Gender
+S001,10,85,8,3.2,70,78,Pass,65,20,Female
+S002,5,60,5,2.5,55,55,Fail,40,21,Male
+S003,12,90,9,3.8,80,88,Pass,75,22,Female
+S004,3,40,3,2.0,45,45,Fail,35,19,Male
+S005,8,75,7,3.0,65,70,Pass,60,23,Female
+S006,11,88,9,3.6,78,85,Pass,72,21,Female
+S007,4,50,4,2.2,50,50,Fail,38,20,Male
+S008,9,80,8,3.3,72,75,Pass,68,22,Male
+S009,2,35,2,1.8,40,40,Fail,30,19,Male
+S010,10,82,8,3.4,75,80,Pass,70,21,Female
+S011,6,65,6,2.7,60,62,Pass,55,20,Male
+S012,11,85,9,3.5,76,82,Pass,71,22,Female
+S013,3,45,3,2.1,48,48,Fail,36,19,Male
+S014,9,78,8,3.1,70,73,Pass,66,21,Female
+S015,7,70,7,2.9,68,68,Pass,58,20,Male
+S016,12,92,10,3.9,85,90,Pass,78,23,Female
+S017,4,55,4,2.3,52,52,Fail,42,19,Male
+S018,10,84,8,3.3,74,77,Pass,69,22,Female
+S019,5,58,5,2.4,54,54,Fail,41,20,Male
+S020,8,76,7,3.0,66,71,Pass,62,21,Male

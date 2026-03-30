@@ -1,0 +1,11 @@
+Product,Region,Sales,Product_Electronics,Product_Furniture,Region_North,Region_South,Region_West
+Electronics,North,25000,1.0,0.0,1.0,0.0,0.0
+Clothing,South,15000,0.0,0.0,0.0,1.0,0.0
+Furniture,East,30000,0.0,1.0,0.0,0.0,0.0
+Electronics,West,22000,1.0,0.0,0.0,0.0,1.0
+Clothing,North,18000,0.0,0.0,1.0,0.0,0.0
+Furniture,South,28000,0.0,1.0,0.0,1.0,0.0
+Electronics,East,26000,1.0,0.0,0.0,0.0,0.0
+Clothing,West,16000,0.0,0.0,0.0,0.0,1.0
+Furniture,North,32000,0.0,1.0,1.0,0.0,0.0
+Electronics,South,24000,1.0,0.0,0.0,1.0,0.0
